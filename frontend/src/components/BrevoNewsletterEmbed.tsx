@@ -85,7 +85,7 @@ export function BrevoNewsletterEmbed() {
     </div>
     <div></div>
     <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-radius:3px; border-width:1px; border-color:#C0CCD9; border-style:solid; direction:ltr">
-      <form id="sib-form" method="POST" action="https://25054e3f.sibforms.com/serve/MUIFAMKFUlRf7IcqIRii_1JwhdbJrK3ONdAhU3piRwBNd3TSwxLI-berehuD8896uJEMaEvyxjVOlYKQDr8Yh0ZVXdy-rP7wgkgO0OHDsApWUAfqyGXuVqAix5CW2Eono9G1MoPorQRJKJYSigK4BC966Ck6iGUtb-6SZc_H8r3_7uhKtunZALXqonNRtszaXf2ZzW-1n0HVxneb" data-type="subscription">
+      <form id="sib-form" method="POST" action="https://25054e3f.sibforms.com/serve/MUIFAPMA_SV7HpAbi1a74o3D3jkyZu3B2MVyqeT0rjUOhygxVNDI3-4IOF6QgYwWCIoE7vpVf_GfRHeQOtMejKQ3TsgCk9gY5MpDm8diGtWp15Qeo4G9v_vmOZwxa6AmqOQUhe6QQ-cx1Cv85noUHV2w-wPqB-Orpyue2juUdHmnCUcrJHLRwkm-mgRp3WGdjA6YABCjsRUf6TxR" data-type="subscription">
         <div style="padding: 8px 0;">
           <div class="sib-form-block" style="font-size:32px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent; text-align:left">
             <p>Newsletter</p>
