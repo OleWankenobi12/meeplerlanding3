@@ -85,7 +85,7 @@ export function BrevoNewsletterEmbed() {
     </div>
     <div></div>
     <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-radius:3px; border-width:1px; border-color:#C0CCD9; border-style:solid; direction:ltr">
-      <form id="sib-form" method="POST" action="https://25054e3f.sibforms.com/serve/MUIFAIhqhZ-LMTKSJJKTbhWs3hZIMe4WKcn5DGZdyUIBpFQeOhsorZe2cX87IISmyOzBPR3AFYqbXkGMY3Aa7St97l0pcU0RFCWRLHojDUcOH9cERWAUR_AAGui9zMFyM43FoyvcBgubv815kdZBZ5WRaN5Y5ED-n2kYvnjTZehcjvLwCbYfUSaMJtAx6z4dkSHlOVqeaLiIQgw0" data-type="subscription">
+      <form id="sib-form" method="POST" action="https://25054e3f.sibforms.com/serve/MUIFAMKFUlRf7IcqIRii_1JwhdbJrK3ONdAhU3piRwBNd3TSwxLI-berehuD8896uJEMaEvyxjVOlYKQDr8Yh0ZVXdy-rP7wgkgO0OHDsApWUAfqyGXuVqAix5CW2Eono9G1MoPorQRJKJYSigK4BC966Ck6iGUtb-6SZc_H8r3_7uhKtunZALXqonNRtszaXf2ZzW-1n0HVxneb" data-type="subscription">
         <div style="padding: 8px 0;">
           <div class="sib-form-block" style="font-size:32px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent; text-align:left">
             <p>Newsletter</p>
@@ -147,7 +147,7 @@ export function BrevoNewsletterEmbed() {
                     document.getElementById('sib-captcha').dispatchEvent(event);
                   }
                 </script>
-                <div class="g-recaptcha sib-visible-recaptcha" id="sib-captcha" data-sitekey="6LcvyXkrAAAAAJAG6tnwQWQSe4Jv14s1Vr7Oq8sk" data-callback="handleCaptchaResponse" style="direction:ltr"></div>
+                <div class="g-recaptcha sib-visible-recaptcha" id="sib-captcha" data-sitekey="6LdCy3krAAAAAAUz5Z0EFnn8P5h3JeLiP1rpAuyI" data-callback="handleCaptchaResponse" style="direction:ltr"></div>
               </div>
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
