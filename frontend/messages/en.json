@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "text": "Meepler is the smart hub for board game groups. Manage your groups, plan game nights, vote on games – all in one place, intuitive and shared."
+  },
+  "benefit": {
+    "1": "Organize game nights without chaos",
+    "2": "Game selection made for everyone",
+    "3": "Perfect for groups of all sizes"
+  },
+  "quote": {
+    "text": "“Meepler brings structure, clarity and fun to our game nights.”"
+  },
+  "cta": {
+    "headline": "Stay up to date",
+    "text": "Get updates on new modules, public events, and the official launch of Meepler. Sign up for our newsletter:",
+    "placeholder": "Your email address",
+    "button": "Subscribe"
+  },
+  "meetup": {
+    "title": "Module 1: Meepler MeetUp",
+    "text": "Meepler MeetUp lets you plan game nights in seconds, invite players, collect suggestions and vote – no registration needed. Perfect for private groups, clubs or public events.",
+    "button": "Launching soon – stay informed"
+
+  },
+  
+  "footer": {
+    "slogan": "Your smart HUB for board game crew",
+    "navigation": {
+      "title": "Navigation",
+      "home": "Home",
+      "meetup": "Meepler MeetUp",
+      "contact": "Contact",
+      "newsletter": "Newsletter"
+    },
+    "legal": {
+      "title": "Legal",
+      "imprint": "Imprint",
+      "privacy": "Privacy Policy"
+    },
+    "social": {
+      "title": "Social & Code"
+    },
+    "copyright":
+      "All rights reserved."
+  },
+
+  "legal": {
+    "imprintTitle": "Imprint",
+    "responsible": "Responsible according to § 5 TMG:",
+    "privacyTitle": "Privacy Policy",
+    "intro": "We take the protection of your personal data seriously. Your data will be treated confidentially and in accordance with legal regulations.",
+    "accessData": "When visiting our website, general technical data is automatically collected (so-called server log files), such as browser type, operating system, or your provider's domain. These do not allow personal identification.",
+    "contact": "If you contact us by email, your data will only be used to process your request and will not be shared with third parties.",
+    "rights": "You have the right to request information, correction, or deletion of your stored personal data at any time. Simply send us an informal email.",
+    "hosting": "This website is hosted by Vercel. Vercel processes data exclusively on our behalf and in accordance with applicable privacy laws."
+    }
+}
+
+
+

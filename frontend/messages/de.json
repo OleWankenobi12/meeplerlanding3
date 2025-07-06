@@ -1,0 +1,56 @@
+{
+  "hero": {
+    "text": "Meepler ist das smarte HUB für Brettspielgruppen. Verwalte deine Brettspiel-Gruppen, plane Spielabende, stimme über Spiele ab – alles an einem Ort, intuitiv und gemeinsam nutzbar."
+  },
+  "benefit": {
+    "1": "Spieletreffen organisieren ohne Chaos",
+    "2": "Spielauswahl abgestimmt auf alle",
+    "3": "Für Gruppen jeder Größe"
+  },
+  "quote": {
+    "text": "„Meepler bringt Übersicht, Struktur und Spaß in unsere Spielabende.“"
+  },
+  "cta": {
+    "headline": "Immer auf dem neuesten Stand bleiben",
+    "text": "Erhalte Updates zu neuen Modulen, öffentlichen Events und dem offiziellen Start von Meepler. Trag dich jetzt für unseren Newsletter ein:",
+    "placeholder": "Deine E-Mail-Adresse",
+    "button": "Eintragen"
+  },
+  "meetup": {
+    "title": "Modul 1: Meepler MeetUp",
+    "text": "Mit Meepler MeetUp kannst du im Handumdrehen Spieleabende planen, Mitspieler einladen, Spielvorschläge sammeln und abstimmen lassen – ganz ohne Registrierung. Ideal für deine Spielrunden, Gruppen oder öffentliche Events.",
+    "button": "Launching soon – bleib informiert"
+
+  },
+  
+  "footer": {
+    "slogan": "Your smart HUB for board game crew",
+    "navigation": {
+      "title": "Navigation",
+      "home": "Startseite",
+      "meetup": "Meepler MeetUp",
+      "contact": "Kontakt",
+      "newsletter": "Newsletter"
+    },
+    "legal": {
+      "title": "Rechtliches",
+      "imprint": "Impressum",
+      "privacy": "Datenschutz"
+    },
+    "social": {
+      "title": "Social & Code"
+    },
+    "copyright":
+      "Alle Rechte vorbehalten."
+  },
+  "legal": {
+  "imprintTitle": "Impressum",
+  "responsible": "Verantwortlich im Sinne des § 5 TMG:",
+  "privacyTitle": "Datenschutzerklärung",
+  "intro": "Wir nehmen den Schutz deiner Daten sehr ernst. Deine personenbezogenen Daten werden vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften behandelt.",
+  "accessData": "Beim Besuch unserer Website werden automatisch Informationen allgemeiner Natur erfasst (sogenannte Server-Logfiles). Diese Informationen beinhalten z. B. den Browsertyp, das Betriebssystem oder den Domainnamen deines Internet Service Providers. Eine Rückverfolgung auf deine Person erfolgt nicht.",
+  "contact": "Wenn du mit uns per E-Mail Kontakt aufnimmst, werden deine Angaben ausschließlich zur Bearbeitung der Anfrage gespeichert und nicht an Dritte weitergegeben.",
+  "rights": "Du hast jederzeit das Recht auf Auskunft, Berichtigung oder Löschung deiner gespeicherten personenbezogenen Daten. Hierzu genügt eine formlose Mitteilung per E-Mail.",
+  "hosting": "Unsere Website wird bei Vercel gehostet. Vercel verarbeitet Daten ausschließlich in unserem Auftrag und gemäß den geltenden Datenschutzgesetzen."
+}
+}
